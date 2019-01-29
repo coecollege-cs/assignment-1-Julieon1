@@ -24,6 +24,9 @@ int main()
 	printf("Size of unsigned int: %lu byte\n", (unsigned int)sizeof(int));
 	printf("Size of unsigned char: %lu byte\n", (unsigned char)sizeof(char));
 	printf("Size of unsigned long: %lu byte\n", (unsigned long)sizeof(long));
+	printf("Size of unsigned int Test: %lu byte\n", sizeof(unsigned long));
+	printf("Size of unsigned char Test: %lu byte\n", sizeof(unsigned char));
+	printf("Size of unsigned long Test: %lu byte\n", sizeof(unsigned long));
 	printf("Size of int pointer: %lu bytes\n",sizeof(intPoint));
 	printf("Size of char pointer: %lu bytes\n",sizeof(charPoint));
 	printf("Size of long pointer: %lu bytes\n",sizeof(longPoint));
