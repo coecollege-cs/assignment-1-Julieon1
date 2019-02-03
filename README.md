@@ -1,6 +1,5 @@
-# Branching Assignment
-This is a test update for branching
-
+# First Assignment
+Put the assignment with the sizeof in gitHub using git
 
 # Heading 1(#)
 ## Heading 2(##)
