@@ -1,13 +1,47 @@
 # Payroll System Requirements
 
 ## Questions
+### Who is going to be using the software? (Who)
 
-* Who is going to be using the software? (Who)
-* What does the customer need the application to do? (What)
-* When does the customer need the application?(When)
-* Where is it going to be used? (Where)
-* Why is it needed? (Why)
-* Does the customer have novel ways of doing things that may be good to mimic in the application? (How)
+
+### What does the customer need the application to do? (What)
+
+
+### When does the customer need the application?(When)
+
+
+### Where is it going to be used? (Where)
+
+
+### Why is it needed? (Why)
+
+
+### Does the customer have novel ways of doing things that may be good to mimic in the application? (How)
+
+
+
+
+## Requirement Types
+###Business
+
+
+
+### User/Stakeholders
+
+
+
+### Function
+
+
+
+
+### Non-Functional
+
+
+
+
+### Implementation
+
 
 
 
